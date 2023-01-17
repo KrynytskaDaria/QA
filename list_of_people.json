@@ -1,0 +1,48 @@
+{
+    "list": [
+      {
+        "id": "00156",
+        "Name": "Vitya",
+        "accommodation": "Poltava",
+        "address": "Kirova",
+        "home": "6",
+        "apartment": "69",
+        "phone": "+380987615606",
+        "email": "vitoslaci@gmail.com",
+        "skype": "vitoslac"
+      },
+      {
+        "id": "01265",
+        "Name": "Arsene",
+        "accommodation": "Kyoto",
+        "address": "Mikoto",
+        "home": "59",
+        "apartment": "109",
+        "phone": "+81756547900",
+        "email": "arch.kio@gmail.com",
+        "skype": "archik"
+      },
+      {
+        "id": "15671",
+        "Name": "Katya",
+        "accommodation": "Paris",
+        "address": "Shatova",
+        "home": "73",
+        "apartment": "256",
+        "phone": "+331145006790",
+        "email": "kati151@gmail.com",
+        "skype": "Kati1"
+      },
+      {
+        "id": "65961",
+        "Name": "Kira",
+        "accommodation": "Washington",
+        "address": "Topova",
+        "home": "73",
+        "apartment": "566",
+        "phone": "+12025566017799",
+        "email": "kirarav@gmail.com",
+        "skype": "kiraV"
+      }
+    ]
+  }
